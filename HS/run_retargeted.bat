@@ -1,0 +1,1 @@
+HSaliency .\src2\*.bmp .\src2\
