@@ -3,7 +3,7 @@ addpath(genpath('.\TRASIM\'));
 addpath(genpath('.\HS\'));
 load TRASIM_SVR_model
 original = imread('original.bmp');
-step = 20;
+step = 15;
 retargeting_ratio = 0.75;
 [m,n,~] = size(original);
 mm =m;  
